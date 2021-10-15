@@ -79,7 +79,7 @@ Install Package
 
 # Setup Cluster
 
-    $ git clone https://github.com/avp38/Hadoop-Spark-Environment.git
+    $ git clone https://github.com/datainsightat/hadoop_spark_cluster.git
     $ cd Hadoop-Spark-Environment/resources
     $ wget https://archive.apache.org/dist/hadoop/common/hadoop-2.7.3/hadoop-2.7.3.tar.gz
     $ wget http://d3kbcqa49mib13.cloudfront.net/spark-2.1.0-bin-hadoop2.7.tgz
