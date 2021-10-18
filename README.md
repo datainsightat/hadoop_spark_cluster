@@ -1,8 +1,8 @@
 # Hadoop Spark Cluster
 
-The basis ot this project was created by [avp38](https://github.com/avp38/Hadoop-Spark-Environment)
+This project is based on the work of [avp38](https://github.com/avp38/Hadoop-Spark-Environment)
 
-The goal of this project is to create a Hadoop/Spark Cluster in a VirtualBox Environment that can be interfaced using Jupyter Lab.
+Its is to create a Hadoop/Spark Cluster in a VirtualBox Environment that can be interfaced using Jupyter Lab.
 
 ## Cluster Architecture
 
